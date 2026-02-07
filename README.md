@@ -1,6 +1,6 @@
-# Virtual Assistant (Next.js Edition)
+# Voice-Controlled System & Web Assistant
 
-A powerful, voice-activated Virtual Assistant application migrated from a MERN stack to a modern **Next.js (App Router)** architecture. This application integrates Google's Gemini AI for intelligent conversations, resume optimization, and various voice-controlled commands.
+A powerful, Voice-Controlled System & Web Assistant application migrated from a MERN stack to a modern **Next.js (App Router)** architecture. This application integrates Google's Gemini AI for intelligent conversations, resume optimization, and various voice-controlled commands.
 
 ## 🚀 Features
 
